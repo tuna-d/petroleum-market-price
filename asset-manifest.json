@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/petroleum-market-price/static/css/main.533d36b5.css",
+    "main.js": "/petroleum-market-price/static/js/main.facb2081.js",
+    "index.html": "/petroleum-market-price/index.html",
+    "main.533d36b5.css.map": "/petroleum-market-price/static/css/main.533d36b5.css.map",
+    "main.facb2081.js.map": "/petroleum-market-price/static/js/main.facb2081.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.533d36b5.css",
+    "static/js/main.facb2081.js"
+  ]
+}
